@@ -1,0 +1,14 @@
+{
+    "name": "joaquin/declararcp_peru",
+    "description": "Libreria para enviar los comprobantes a SUNAT o NubeFact",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "joaquin llallire",
+            "email": "joaquin.llallire@gmail.com"
+        }
+    ],
+    "require": {
+        "greenter/xmldsig": "^5.0"
+    }
+}
